@@ -1,7 +1,5 @@
 ### Hi there 👋 I´m Denise
 
-- 🔭 I’m currently working on **a Movie App**
-
 - 👯 My main github is [@deniseurbanija](https://github.com/deniseurbanija)
 
 <h3 align="left">Languages and Tools:</h3>
